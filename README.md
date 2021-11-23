@@ -3,5 +3,6 @@
 Olá! Bem-vindo ao meu livro de receitas :wave:
 
 - Strogonoff de frango
-- Pavê Chocolate
+- Pavê 
+- Bolo de Cenoura
 
